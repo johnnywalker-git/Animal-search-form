@@ -1,0 +1,47 @@
+.imageFilter {
+    display: none;
+}
+
+body {
+    background-image:url("jungle.jpg");
+}
+
+
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+.heading {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    opacity: 0.8;
+    padding:20px;
+}
+
+
+.animal-container {
+    
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding:20px;
+    opacity: 0.9;
+    flex-wrap: wrap;
+
+}
+
+
+
+img {
+    padding: 5px;
+}
+
